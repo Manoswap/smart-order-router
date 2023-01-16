@@ -42,6 +42,7 @@ export const UNISWAP_MULTICALL_ADDRESSES: AddressMap = {
   [ChainId.CELO_ALFAJORES]: CELO_MULTICALL_ADDRESS,
 
   [ChainId.ARBITRUM_GOERLI]: ARBITRUM_GOERLI_MULTICALL_ADDRESS,
+  [ChainId.CORE]:'0x5e522F95E825a0Fc3c84aEd8aB3Ff27BE10987Eb'
   // TODO: Gnosis + Moonbeam contracts to be deployed
 };
 
